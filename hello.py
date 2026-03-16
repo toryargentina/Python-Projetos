@@ -40,3 +40,9 @@ print("Menu \n 1. Iniciar \n 2. Sair ")
 
 # ( r ) Serve para dizer ao Python que a string é “crua”, ou seja, os caracteres especiais não serão interpretados.
 print(r"C:\usuarios\nome\documentos")
+
+
+# ---------------- SOBRE PYTON --------------------
+
+# Python é a linguagem número 1 em IA do mundo.
+# Python não está ultrapassado, está evoluindo rápido.
