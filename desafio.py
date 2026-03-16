@@ -1,21 +1,3 @@
- #--------------------- BOAS VINDAS/APRESENTAÇÃO ---------------------
-print("Hello, World!")
-
-
-# Meu nome completo
-print("Meu nome é Victória Helena Soares Argentina")
-
-# Minha área de Interesse
-print("Minha área de interesse é Economia, gosto muito :)")
-
-# Uma frase inspiradora
-print("A Economia não trata apenas de números e gráficos, mas da arte de compreender as escolhas humanas para transformar a escassez de hoje no bem-estar de amanhã.")
-
-# Mensagem de boas-vindas
-print("Bem-vindo ao curso de Economia da faculdade PUC Minas, aonde estamos aprendendo sobre programação básica com Python.")
-
-
-
 # --------------------------- DESAFIO ----------------------------
 
 # ( , ) A vírgula é usada principalmente para separar itens.
